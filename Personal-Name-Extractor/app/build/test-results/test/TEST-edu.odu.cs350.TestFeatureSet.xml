@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.odu.cs350.TestFeatureSet" tests="35" skipped="0" failures="0" errors="0" timestamp="2022-04-29T19:11:00" hostname="LAPTOP-TS346CR2" time="1.267">
+  <properties/>
+  <testcase name="testGetSetSuffixMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetSetStopListMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testIsInDictionaryMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testGetSetLastNameMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetSetHonorificMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testIsInStopListMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testFeatureSet" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsInCountriesMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsInLastNameMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testIsInFirstNameMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testGetSetDticFirstMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsInPlacesMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testGetSetDticLastMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testFindLexical" classname="edu.odu.cs350.TestFeatureSet" time="0.413"/>
+  <testcase name="testIsNumber" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetSetPlacesMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testIsInHonorificMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testIsInDticLastMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testStripPERTags" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsInCitiesMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetFeatures" classname="edu.odu.cs350.TestFeatureSet" time="0.834"/>
+  <testcase name="testSetAllMaps" classname="edu.odu.cs350.TestFeatureSet" time="0.002"/>
+  <testcase name="testIsInPrefixMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetSetCountriesMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetSetCitiesMap" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testIsCapitalized" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsPunct" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetSetPrefixMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testGetSetDictionaryMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsNewLine" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <testcase name="testGetSetFirstNameMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsInDticFirstMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsPersonalName" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testIsInSuffixMap" classname="edu.odu.cs350.TestFeatureSet" time="0.0"/>
+  <testcase name="testHashFromFile" classname="edu.odu.cs350.TestFeatureSet" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

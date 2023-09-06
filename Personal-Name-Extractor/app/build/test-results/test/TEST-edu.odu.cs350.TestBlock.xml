@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.odu.cs350.TestBlock" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-04-29T19:10:57" hostname="LAPTOP-TS346CR2" time="0.722">
+  <properties/>
+  <testcase name="testFindWordCount" classname="edu.odu.cs350.TestBlock" time="0.005"/>
+  <testcase name="testSetGetWordCount" classname="edu.odu.cs350.TestBlock" time="0.0"/>
+  <testcase name="testShingleArray" classname="edu.odu.cs350.TestBlock" time="0.001"/>
+  <testcase name="testAddPERTags" classname="edu.odu.cs350.TestBlock" time="0.007"/>
+  <testcase name="testRemoveNERTags" classname="edu.odu.cs350.TestBlock" time="0.0"/>
+  <testcase name="testGetOpeningTagIndex" classname="edu.odu.cs350.TestBlock" time="0.002"/>
+  <testcase name="testInBound" classname="edu.odu.cs350.TestBlock" time="0.0"/>
+  <testcase name="testSetGetTagIndex" classname="edu.odu.cs350.TestBlock" time="0.0"/>
+  <testcase name="testPrintMarkedUpBlock" classname="edu.odu.cs350.TestBlock" time="0.703"/>
+  <testcase name="testAttachNERTags" classname="edu.odu.cs350.TestBlock" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

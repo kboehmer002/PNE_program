@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.odu.cs350.TestExtractor" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-29T19:11:00" hostname="LAPTOP-TS346CR2" time="0.038">
+  <properties/>
+  <testcase name="testSetAttributes" classname="edu.odu.cs350.TestExtractor" time="0.006"/>
+  <testcase name="testSetClassifySvm" classname="edu.odu.cs350.TestExtractor" time="0.031"/>
+  <testcase name="testClassifyWord" classname="edu.odu.cs350.TestExtractor" time="0.0"/>
+  <testcase name="testTrainModel" classname="edu.odu.cs350.TestExtractor" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
